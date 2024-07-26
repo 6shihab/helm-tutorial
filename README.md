@@ -1,4 +1,5 @@
 # helm-tutorial
 helm Chart examples and tutorial resoruces
 
-[a link](https://devopscube.com/create-helm-chart/)
+[Click Here For Details Explanation ](https://devopscube.com/create-helm-chart/)
+https://devopscube.com/create-helm-chart/
